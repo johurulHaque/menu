@@ -1,6 +1,8 @@
-the color are 
+the color are are in the child
 red
 blue
 black
 green
 yellow
+
+radish
